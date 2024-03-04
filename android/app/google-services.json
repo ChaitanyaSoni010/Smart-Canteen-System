@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "304169622828",
+    "project_id": "smart-canteen-management-sys",
+    "storage_bucket": "smart-canteen-management-sys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304169622828:android:900c3f4bed12bb94e22089",
+        "android_client_info": {
+          "package_name": "com.aditya.smartcanteen_pickup_friend_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304169622828-caf0dtmed23pknhmvmt04vq8lco2nup4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcp62C0O5B6Kr0x6b8tz5tzKkIR23JH9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304169622828-caf0dtmed23pknhmvmt04vq8lco2nup4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304169622828:android:d408a70a0fab3e21e22089",
+        "android_client_info": {
+          "package_name": "com.adwiet.users_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304169622828-caf0dtmed23pknhmvmt04vq8lco2nup4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcp62C0O5B6Kr0x6b8tz5tzKkIR23JH9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304169622828-caf0dtmed23pknhmvmt04vq8lco2nup4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304169622828:android:a3df3302dd693692e22089",
+        "android_client_info": {
+          "package_name": "com.chaitanya.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304169622828-caf0dtmed23pknhmvmt04vq8lco2nup4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcp62C0O5B6Kr0x6b8tz5tzKkIR23JH9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304169622828-caf0dtmed23pknhmvmt04vq8lco2nup4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
